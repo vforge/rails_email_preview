@@ -17,7 +17,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'rails', '>= 3.2'
   s.add_dependency 'slim-rails'
   s.add_dependency 'sass-rails'
-  s.add_dependency 'turbolinks'
   s.add_dependency 'request_store'
 
   s.add_development_dependency 'i18n-tasks', '>= 0.7.6'

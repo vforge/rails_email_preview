@@ -10,7 +10,6 @@ require 'slim-rails'
 require 'sass'
 require 'sass-rails'
 require 'request_store'
-require 'turbolinks'
 
 module RailsEmailPreview
 
